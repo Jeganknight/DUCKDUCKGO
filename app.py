@@ -16,9 +16,9 @@ model_options = {
     "LLaMA 3.3 70B Versatile (Meta)": "llama-3.3-70b-versatile",
     "LLaMA 3.1 8B Instant (Meta)": "llama-3.1-8b-instant",
     "Gemma 2 9B IT (Google)": "gemma2-9b-it",
-    "LLaMA Guard 3 8B (Meta)": "llama-guard-3-8b",
+    "distil-whisper-large-v3-en (Huggig Face)": "distil-whisper-large-v3-en",
     "Qwen-2.5 32B (Alibaba Cloud)": "qwen-2.5-32b",
-    "Mistral Saba 24B (Mistral)": "mistral-saba-24b"
+    "deepseek-r1-distill-qwen-32b (deepseek)": "deepseek-r1-distill-qwen-32b"
 }
 
 # Streamlit UI
